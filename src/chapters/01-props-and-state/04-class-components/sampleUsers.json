@@ -1,0 +1,16 @@
+[
+  {
+    "username": "frank",
+    "firstName": "Francis",
+    "lastName": "Patience",
+    "avatarUrl": "https://media.giphy.com/media/4QFd9B1jMRZDVbMYAg/giphy.gif",
+    "bio": "Living in Los Angeles. Winner of Hermon Dog Park's annual Endurance Fetch contest"
+  },
+  {
+    "username": "good-idea",
+    "firstName": "Joseph",
+    "lastName": "Thomas",
+    "avatarUrl": "https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif",
+    "bio": "Works too much. Trying to keep up with Frank"
+  }
+]
